@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="80960" started-at="2018-06-25T16:27:52Z" finished-at="2018-06-25T16:29:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="80960" started-at="2018-06-25T16:27:52Z" finished-at="2018-06-25T16:29:13Z">
+      <class name="mPack_1.newMavenProject.Cart">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:mPack_1.newMavenProject.Cart@ed9d034]" name="startBrowser" is-config="true" duration-ms="19057" started-at="2018-06-25T16:27:52Z" finished-at="2018-06-25T16:28:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="shoppingProcess()[pri:0, instance:mPack_1.newMavenProject.Cart@ed9d034]" name="shoppingProcess" duration-ms="61573" started-at="2018-06-25T16:28:11Z" finished-at="2018-06-25T16:29:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shoppingProcess -->
+        <test-method status="PASS" signature="endBrowser()[pri:0, instance:mPack_1.newMavenProject.Cart@ed9d034]" name="endBrowser" is-config="true" duration-ms="273" started-at="2018-06-25T16:29:13Z" finished-at="2018-06-25T16:29:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endBrowser -->
+      </class> <!-- mPack_1.newMavenProject.Cart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
